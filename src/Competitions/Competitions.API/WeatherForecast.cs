@@ -1,4 +1,4 @@
-namespace Users.API
+namespace Competitions.API
 {
     public class WeatherForecast
     {
