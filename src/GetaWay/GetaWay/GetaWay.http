@@ -1,0 +1,6 @@
+@GetaWay_HostAddress = http://localhost:5291
+
+GET {{GetaWay_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
